@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954172486906",
+    "firebase_url": "https://projetb3groupepatate.firebaseio.com",
+    "project_id": "projetb3groupepatate",
+    "storage_bucket": "projetb3groupepatate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954172486906:android:78eadcbfc01d4ffc",
+        "android_client_info": {
+          "package_name": "com.example.projetb3groupepatate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954172486906-ghq5oh0dfgo4d4r4dnlojsspuuv47jgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projetb3groupepatate",
+            "certificate_hash": "a94706581a699a185d199eddcc3773829d52ec51"
+          }
+        },
+        {
+          "client_id": "954172486906-l2cq45kgedbl0458o9360j82r5dtrgk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkhLG24ZV2KQJzEvRY3wBme7ntpKTuMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954172486906-l2cq45kgedbl0458o9360j82r5dtrgk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
